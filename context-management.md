@@ -1,5 +1,7 @@
 # Managing Context While Vibe Coding
 
+![The Nuggies Arc: Vibe Coding in 2026](./nuggie-meme.png)
+
 *Don't care about any of this and just want to make your agent coding better? Have your agents go read this: https://github.com/samhotchkiss/agentic-dev-starter*
 
 ---
@@ -57,7 +59,7 @@ If you're doing all five and still hitting the wall, then you're ready for the h
 
 The most important thing you can do to build a maintainable, working vibe-coded app is to keep the core of your app as tiny as possible. Everything lives in self-contained modules/plugins. Some plugins are core/required. Others are optional. Plugins can have sub-plugins.
 
-[DIAGRAM OF MICROKERNEL APPROACH]
+![Traditional Monolith vs Microkernel / Plugin Architecture](./microkernel-architecture.png)
 
 Why this wins for agentic coding:
 

@@ -4,6 +4,14 @@ A small repo that codifies the context-management practices from [Managing Conte
 
 ---
 
+## If you're a human reading this
+
+This repo is the companion to the article [Managing Context While Vibe Coding](./context-management.md) — start there. It explains the *why* behind every file below. (The article will also be published on X.)
+
+Once you've read it, the fastest way to use this repo is to send your agent the GitHub URL and tell it "apply this approach to my project." The instructions in the next section are written for that agent.
+
+---
+
 ## If you're an agent told to apply this to a project
 
 Do these steps in order. Each is self-contained, but they build on each other — don't skip ahead.
