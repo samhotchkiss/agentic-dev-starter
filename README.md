@@ -53,6 +53,7 @@ Do these steps in order. Each is self-contained, but they build on each other â€
 | [`prompts/01-docs-generation.md`](./prompts/01-docs-generation.md) | Generate LLM-friendly docs (run first). |
 | [`prompts/02-architecture-setup.md`](./prompts/02-architecture-setup.md) | Scaffold microkernel + plugin architecture (run second). |
 | [`prompts/03-audit.md`](./prompts/03-audit.md) | Audit against these practices (run recurringly). |
+| [`prompts/architect-subagents.md`](./prompts/architect-subagents.md) | Operating manual for an agent acting as Architect when running the Architect + Sub-Agents workflow. Hand to an agent at the start of any feature-building session. |
 
 ---
 
