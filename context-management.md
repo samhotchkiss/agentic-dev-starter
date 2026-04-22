@@ -1,6 +1,6 @@
 # Managing Context While Vibe Coding
 
-*Don't care about any of this and just want to make your agent coding better? Have your agents go read this: [GITHUB LINK]*
+*Don't care about any of this and just want to make your agent coding better? Have your agents go read this: https://github.com/samhotchkiss/agentic-dev-starter*
 
 ---
 
@@ -123,7 +123,7 @@ Good docs let agents understand the scope and shape of your project without pull
 
 Put them all in `/docs`. Every new agent session starts by reading the North Star + relevant docs.
 
-Here's a prompt you can use to generate these docs: [LINK TO PROMPT]
+Here's a prompt you can use to generate these docs: [prompts/01-docs-generation.md](https://github.com/samhotchkiss/agentic-dev-starter/blob/main/prompts/01-docs-generation.md)
 
 ---
 
@@ -144,7 +144,7 @@ One caveat on that last one: this sweep catches glaring stuff but isn't a real s
 
 **Audits produce a list, not action.** I will review the audit with the agent and have them add GitHub issues for every finding that we agree should be acted on, and then I have Codex go out and generate PRs, and then I have Opus come back and review them and merge them.
 
-Here's a prompt you can use to run the audit: [LINK TO PROMPT]
+Here's a prompt you can use to run the audit: [prompts/03-audit.md](https://github.com/samhotchkiss/agentic-dev-starter/blob/main/prompts/03-audit.md)
 
 ---
 
